@@ -1,4 +1,4 @@
-# turbo-turret
+# Pneumatic Tank with Reloading Mechanism
 
 Project repo for mechanical practice course. A turret maybe?
 
