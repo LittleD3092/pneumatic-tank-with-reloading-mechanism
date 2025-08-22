@@ -2,6 +2,10 @@
 
 A pneumatic projectile launcher designed with a custom automated reloading mechanism. This project is based on a course named mechanical practice.
 
+This project won the 1st place in [Mechanical Practice and Capstone Project Competition](https://me.nycu.edu.tw/zh_tw/news8/announcements/%E6%A9%9F%E6%A2%B0%E7%B3%BB%E6%96%BC113%E5%B9%B41%E6%9C%883%E6%97%A5%E8%88%89%E8%BE%A6-2023%E6%A9%9F%E6%A2%B0%E5%AF%A6%E4%BD%9C%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E7%AB%B6%E8%B3%BD-%E7%B6%93%E9%A9%97%E5%82%B3%E6%89%BF%E8%88%87%E5%88%86%E4%BA%AB-29685827).
+
+<img src="pic/first_place.jfif" alt="Cover" width="50%">
+
 ## Overview
 
 - Pneumatic projectile launching system using compressed air for firing
